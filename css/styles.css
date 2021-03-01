@@ -1,0 +1,36 @@
+body{
+background-color: #fb743e;
+
+
+}
+
+hr {
+  background-color: white;
+  border-style: dotted none none ;
+  border-color: grey;
+  border-width: 3px;
+  width: 2%;
+}
+
+h1{
+  color: orange;
+}
+h3{
+  color: #6b011f;
+}
+
+table {
+  background-color:#383e56;
+
+  font-style: italic;
+}
+.projects :hover{
+  color: green;
+}
+.development{
+  background-color: grey;
+}
+img{
+  background-position: center;
+
+}
